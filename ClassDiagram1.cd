@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="AppUsageTracker.Program">
+    <Position X="8.25" Y="3.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppUsageTracker.Base">
+    <Position X="4.75" Y="2.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAAAAAAAAAAIgAAAAAAIAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="1.36" />
+  </Class>
+  <Class Name="AppUsageTracker.AppUsage">
+    <Position X="4.75" Y="5.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAEAAAAAAQAAAAAAAAAAAAAIAAAAAAAAAE=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AppUsageTracker.UsageLogger">
+    <Position X="8.25" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="AppUsageTracker.ITrack">
+    <Position X="4.75" Y="0.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
